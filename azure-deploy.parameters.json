@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "sgName": {
-            "value": "sg-loc-dev-321"
+            "value": "mvp-sg-loc-dev-321"
         }
     }
 }
