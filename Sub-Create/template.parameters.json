@@ -1,0 +1,14 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "subscriptionAliasName": {
+            "value": "test-automation" 
+        },
+        "billingScope": {
+            "value": "providers/Microsoft.Billing/billingAccounts/87148511" 
+        },
+        "targetManagementGroup": {
+            "value": "f77d0bdc-0d72-4b3d-8d8c-d87448c17ef8"        }
+    }
+}
