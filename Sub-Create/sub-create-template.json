@@ -23,7 +23,6 @@
     },
     "resources": [
         {
-            "scope": "/", 
             "name": "[parameters('subscriptionAliasName')]",
             "type": "Microsoft.Subscription/aliases",
             "apiVersion": "2020-09-01",
